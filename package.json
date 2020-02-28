@@ -1,0 +1,22 @@
+{
+  "name": "hw81back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Baktiyar Ishenov <b1963826@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.3",
+    "multer": "^1.4.2",
+    "nanoid": "^2.1.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
